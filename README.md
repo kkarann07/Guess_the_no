@@ -1,6 +1,6 @@
 # Guess_the_No
-### --- CODEBREAKER --- ###
-## --Nope--Close--Match--##
+### --- CODEBREAKER --- 
+## --Nope--Close--Match--
  1. The computer will think of 3 digit number that has no repeating digits.
  2. You will then guess a 3 digit number
  3. The computer will then give back clues, the possible clues are:
